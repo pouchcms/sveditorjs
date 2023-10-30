@@ -18,5 +18,5 @@ editor => is the editor instance
 ```
 follow doc at 
 [docs](https://editorjs.io/)
-for advance usage 
+for advance usage
 

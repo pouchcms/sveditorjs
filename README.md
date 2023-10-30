@@ -13,7 +13,9 @@ import {Editor,editor} from 'sveditorjs';
 Editor => is the editor svelte component
 editor => is the editor instance
 
-//follow docs on 
+//follow docs on <a href='https://editorjs.io/'>
+editorjs docs
+</a>
 
 ```
 

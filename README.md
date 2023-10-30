@@ -16,7 +16,7 @@ import {Editor,editor} from 'sveditorjs';
 Editor => is the editor svelte component
 editor => is the editor instance
 
-
+required props are data and url endpoint for image uploads
 
 ```
 

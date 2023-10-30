@@ -3,6 +3,9 @@
 
 simple editorjs wrapper in svelte
 
+![alt text](https://github.com/pouchcms/sveditorjs/blob/master/ScreenShot%20Tool%20-20231030152142.png?raw=true)
+
+
 ```bash
 npm install sveditorjs
 
@@ -16,6 +19,7 @@ editor => is the editor instance
 
 
 ```
+
 follow doc at 
 [docs](https://editorjs.io/)
 for advance usage

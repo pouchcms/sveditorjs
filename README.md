@@ -7,7 +7,7 @@ simple editorjs wrapper in svelte
 
 
 ```bash
-npm install sveditorjs
+npm install sveditorjs 
 
 //load  the editor
 

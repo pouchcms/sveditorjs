@@ -1,6 +1,6 @@
 {
   "name": "sveditorjs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": false,
   "type": "module",
   "main": "index.js",
@@ -9,6 +9,15 @@
     "dev": "rollup -c -w",
     "start": "sirv public --no-clear"
   },
+  "keywords": [
+    "sveditorjs",
+    "editorjs",
+    "svelte",
+    "content",
+    "block editor",
+    "rte"
+  ],
+  "description": "sveditorjs ,is a svelte editor wrapper for editorjs,the block editor",
   "devDependencies": {
     "@calumk/editorjs-codeflask": "latest",
     "@editorjs/editorjs": "latest",
@@ -26,6 +35,7 @@
     "@rollup/plugin-commonjs": "^24.0.0",
     "@rollup/plugin-node-resolve": "^15.0.0",
     "@rollup/plugin-terser": "^0.4.0",
+    "editorjs-hyperlink": "^1.0.6",
     "editorjs-style": "latest",
     "editorjs-table": "latest",
     "editorjs-tooltip": "^1.1.15",
@@ -38,5 +48,14 @@
   },
   "dependencies": {
     "sirv-cli": "^2.0.0"
-  }
+  },
+  "author": {
+    "name": "devbuddie",
+    "email": "devbuddie3@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/pouchcms/sveditorjs",
+    "type": "public"
+  },
+  "license": "MIT"
 }

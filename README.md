@@ -24,3 +24,14 @@ follow doc at
 [docs](https://editorjs.io/)
 for advance usage
 
+
+```js
+<script>
+  //this for testing purpose
+  import {Editor,editor} from "sveditorjs"; 
+ 
+
+</script>
+<Editor >
+</Editor>
+```

@@ -8,20 +8,20 @@
         import Embed from '@editorjs/embed';
     import ImageTool from '@editorjs/image';
     import LinkTool from '@editorjs/link';
-        import RawTool from '@editorjs/raw';
-        import SimpleImage from '@editorjs/simple-image';
+    import RawTool from '@editorjs/raw';
+    import SimpleImage from '@editorjs/simple-image';
     import EditorJSStyle from 'editorjs-style';
-        import Table from 'editorjs-table';
-        import Marker from '@editorjs/marker';
+    import Table from 'editorjs-table';
+    import Marker from '@editorjs/marker';
     import Underline from '@editorjs/underline';
     import Tooltip from 'editorjs-tooltip';
     import InlineCode from '@editorjs/inline-code';
-
+    import Hyperlink from 'editorjs-hyperlink';;
      
 
     
         //data
-     export let data ;
+     export let data = 'hi' ;
      export let url ; 
 
     const editor = new EditorJS({ 
@@ -106,6 +106,18 @@
       class: InlineCode,
       shortcut: 'CMD+SHIFT+M',
     },
+
+    hyperlink: {
+      class: Hyperlink,
+      config: {
+        shortcut: 'CMD+L',
+        target: '_blank',
+        rel: 'nofollow',
+        availableTargets: ['_blank', '_self'],
+        availableRels: ['author', 'noreferrer'],
+        validate: false,
+      }
+    },
       }, 
     })
 
@@ -113,34 +125,20 @@
 //export editor instance
    export {editor}
     </script>
-    <div class='e-row'>
-      
+    <div class='e-row '>
     <div id='editorjs' >
-       <div class="e-tools"> 
-         <slot name="tools"></slot> 
+      
     </div>
-    </div>
-        
     </div>
     <style>
 
-    .e-tools{
-        position: sticky;
-        top:0;
-        height: 30px;
-        width: 100%;
-        z-index: 50;
-        background-color: initial;
-       
-        display: inline-block;
-        
-       
-    }
+  
     .e-row{
         display: contents;
+        box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
     }
     
-        #editorjs{
+    #editorjs{
             min-width:200px;
             min-height:200px;
             max-width: 700px;
@@ -148,7 +146,7 @@
             padding: 0 1.5em 0 1.5em;
             margin: auto;
             display: contents;
-        }
+    }
 
 
     </style>

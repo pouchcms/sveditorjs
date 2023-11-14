@@ -1,4 +1,4 @@
-<script context="module" > 
+<script  > 
 
     import EditorJS from '@editorjs/editorjs'; 
     import Header from '@editorjs/header'; 

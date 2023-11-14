@@ -1,15 +1,15 @@
-<script  > 
+<script > 
 
     import EditorJS from '@editorjs/editorjs'; 
     import Header from '@editorjs/header'; 
     import List from '@editorjs/list'; 
-        import Quote from '@editorjs/quote';  
+    import Quote from '@editorjs/quote';  
     import editorjsCodeflask from '@calumk/editorjs-codeflask';
-        import Embed from '@editorjs/embed';
+    import Embed from '@editorjs/embed';
     import ImageTool from '@editorjs/image';
     import LinkTool from '@editorjs/link';
     import RawTool from '@editorjs/raw';
-    import SimpleImage from '@editorjs/simple-image';
+   // import SimpleImage from '@editorjs/simple-image';
     import EditorJSStyle from 'editorjs-style';
     import Table from 'editorjs-table';
     import Marker from '@editorjs/marker';

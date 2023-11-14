@@ -1,6 +1,6 @@
 {
   "name": "sveditorjs",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "private": false,
   "type": "module",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "rte"
   ],
   "description": "sveditorjs ,is a svelte editor wrapper for editorjs,the block editor",
-  "devDependencies": {
+  "dependencies": {
     "@calumk/editorjs-codeflask": "latest",
     "@editorjs/editorjs": "latest",
     "@editorjs/embed": "latest",
@@ -44,9 +44,7 @@
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^7.1.2",
     "sveditorjs": "^1.0.0",
-    "svelte": "^3.55.0"
-  },
-  "dependencies": {
+    "svelte": "^3.55.0",
     "sirv-cli": "^2.0.0"
   },
   "author": {

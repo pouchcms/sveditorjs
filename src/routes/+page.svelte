@@ -4,10 +4,16 @@
 </script>
  <svelte:head>
   <title>sveditorjs | svelte block editor wrapper for editorjs</title>
-      <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script> 
+  
 
  </svelte:head>
 <Nav /> 
+<div style="margin-top:45px;" class="text-wrapper">
+
+  <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
+<noscript><a href="https://yllix.com/publishers/954639" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
+
+       </div>
  <section style="display:flex;margin-top:48px;flex-wrap:row-wrap" class="padding"> 
    <main style="" class="left padding"> 
     <div class="text-wrapper">
@@ -18,18 +24,15 @@
    </main>
    
      <img style="border-radius:4px" class="medium responsive small-space large-elevate" src="preview.png" alt="sveditorjs preview image"/>   
-     <div class="text-wrapper">
-  <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/954639" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
-
-                </div>
+     
  </section>
  
-   <div class="large right responsive small-space large-elevate">
-  
-   <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
-    </div>
+
+
+
 <section class="col margin medium-margin ">
+
+
   <h3 class="blue-text">
     features
   </h3>
@@ -50,12 +53,11 @@
    we've added a utility helper function to generate semantic html code from editorjs clean json doc
   </div>
 </section>
-  <div class="large right responsive small-space large-elevate">
-  
-  
-   <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
-    </div>
 
+
+
+   
 <footer class="bottom">
+  
   made with love by devbuddie <a class = "button" target="_blank" href="   https://github.com/pouchcms/sveditorjs" > star us on github </a>  
 </footer>

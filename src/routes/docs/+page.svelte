@@ -1,11 +1,8 @@
 
-  <div class="text-wrapper">
-           <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-  
-  
-                 <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
-
-                </div>
+  <div style="margin-top:45px;"  class="text-wrapper">
+     <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
+   <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
+ </div>
 
 <div class="tabs scroll responsive paddind">
   <a data-ui="#page1" class="active">intro</a>
@@ -21,14 +18,8 @@
   <p>
     sveditorjs can be embed into any svelte or sveltekit project,the editor is wraped around editorjs ,for block editing that outputs clean json document.json can be consumed by any app.
   </p>
-  <div class="text-wrapper">
-           <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-  
-  
-                 <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
-
-       </div>
 </div>
+
 <div class="page" id="page2">
   <h5>install</h5>
   sveditorjs can be installed via .
@@ -46,12 +37,11 @@
     </code>
   </pre>
   <div class="text-wrapper">
-           <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-  
-  
-                 <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
+<script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
+<noscript><a href="https://yllix.com/publishers/954639" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
 
-                </div>
+
+ </div>
 </div>
 <div class="page" id="page3">
   <h5>events</h5>
@@ -72,10 +62,7 @@
 
  
   <div class="text-wrapper">
-           <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-  
-  
-                 <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
+<noscript><a href="https://yllix.com/publishers/954639" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
 
         </div>
 </div>
@@ -86,19 +73,12 @@
   <ul class="verticle">
   >> top
   >> aside
-  >> notify
+  >> extra
 
    
   </ul>
 
    
-  <div class="text-wrapper">
-           <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-  
-  
-                 <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
-
-      </div>
 </div>
 <div class="page" id="page5">
   <h5>customize</h5>
@@ -129,13 +109,6 @@ to customize editorjs chekout customization
 
 </div>
 
-  <div class="text-wrapper">
-           <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-  
-  
-                 <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
-
-            </div>
   
 </div>
 <div class="page" id="page6">
@@ -172,11 +145,11 @@ to customize editorjs chekout customization
     
   </ul>
   <div class="text-wrapper">
-           <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-  
-  
-                 <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
 
-            </div>
+ <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
+<noscript><a href="https://yllix.com/publishers/954639" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
+
+
+ </div>
   
 </div>

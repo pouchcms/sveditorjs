@@ -1,22 +1,5 @@
-
-## sveditorjs v2
-
-sveditorjs can be embed into any svelte or sveltekit project,the editor is wraped around editorjs ,for block editing that outputs clean json document.json can be consumed by any app.
-
-on version we added support for sveltekit
-and added a utility helper 
-that generates html
-
-## docs and example
-see the docs and example here [sveditorjs](https://sveditorjs.vercel.app):
-
-```bash
-npm install --save sveditorjs
-```
-```js
 <script>
-  import Editor ,{genHtml} from "$lib/index.js"; 
-  
+  import Editor ,{genHtml} from "$lib/index.js";  
   let modes = {
           'js': 'JavaScript',
           'py': 'Python',
@@ -25,12 +8,8 @@ npm install --save sveditorjs
           'cs': 'C#',
           'md': 'Markdown',
         }
-    let data = {}; //correct editorjs json data
-    let urls = {} //this object should be 
-    //{
-      upload:"",
-      load:"",
-    }
+    let data = {};
+    let urls = {}
  async function handleChange(ev){
     console.log(ev.detail) 
     let editor = ev.detail.editor;
@@ -43,18 +22,33 @@ npm install --save sveditorjs
     }).catch((err)=>{console.log(err)})
   }
 </script>
-
 <Editor data={data} urls={urls} modes={modes} top="true" aside="true" on:editor_ready={(ev)=>{console.log("ready",ev.detail)}} on:editor_change ={(ev)=>{handleChange(ev)}} >
   <svelte:fragment slot="top" >
-    top
+<button data-ui="#menu" class="circle fill small  small-elevate ">
+ <span class=""> 
+  <i class="medium-divider"></i>
+ <i class="medium-divider"></i>
+ <i class="medium-divider"></i>
+ </span>
+
+  <menu id="menu" class="no-wrap right">
+    <a href="/">home</a>
+    <a href="/editor">editor</a>
+    <a href="/docs">docs</a>
+  </menu>
+</button>
+<p>
+  put some buttons here
+</p>
   </svelte:fragment>
   <svelte:fragment slot="aside" >
-   aside
-  </svelte:fragment>
-<svelte:fragment slot="extra" >
-   extra unstyled
+    <a class="circle small responsive small-elevate">
+      user
+    </a>
+    <p>
+      put some here
+    </p>
   </svelte:fragment>
 </Editor>
 
  
-```

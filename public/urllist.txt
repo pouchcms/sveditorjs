@@ -1,4 +1,0 @@
-https://sveditorjs.vercel.app/
-https://sveditorjs.vercel.app/index.html
-https://sveditorjs.vercel.app/editor.html
-https://sveditorjs.vercel.app/docs.html

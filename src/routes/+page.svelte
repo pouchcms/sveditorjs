@@ -4,6 +4,8 @@
 </script>
  <svelte:head>
   <title>sveditorjs | svelte block editor wrapper for editorjs</title>
+      <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script> 
+
  </svelte:head>
 <Nav /> 
  <section style="display:flex;margin-top:48px;flex-wrap:row-wrap" class="padding"> 
@@ -17,17 +19,13 @@
    
      <img style="border-radius:4px" class="medium responsive small-space large-elevate" src="preview.png" alt="sveditorjs preview image"/>   
      <div class="text-wrapper">
-           <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-  
-  
-                 <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
+  <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
+<noscript><a href="https://yllix.com/publishers/954639" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
 
                 </div>
  </section>
  
    <div class="large right responsive small-space large-elevate">
-        <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-  
   
    <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
     </div>
@@ -53,7 +51,6 @@
   </div>
 </section>
   <div class="large right responsive small-space large-elevate">
-        <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
   
   
    <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>

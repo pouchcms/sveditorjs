@@ -172,7 +172,13 @@ blocks.forEach((el,i)=>{
           }
           break;
         case "image":
-          console.log(el)
+            if(el.data.file.url.length > 0){
+              let img = document.createElement("img");
+              img.setAttribute("id",`${el.id}`);
+              img.setAttribute("src",`${el.data.file.url}`);
+              img.setAttribute("alt",`${el.data.caption}`);
+              article.append(img)
+            }  
           break;
         case "table":
           if(el.data){

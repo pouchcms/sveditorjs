@@ -6,7 +6,7 @@
     font-size: 12px;
     background: #f8f7fa;
     border: 1px solid #f1f1f4;
-    box-shadow: 5px 5px 8px rgba(0,0,0,.8); 
+    /*box-shadow: 5px 5px 8px rgba(0,0,0,.8); */ 
     white-space: pre;
     word-wrap: normal;
     overflow-x: auto;
@@ -26,18 +26,3 @@
     color: inherit;
 }
 
-table{
-  display: flex;
-  flex-direction: column;
-  min-width: 200px; 
-}
-tr{
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  
-}
-td{
-  min-width: 200px;
-  min-height: 80px;
-}

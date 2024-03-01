@@ -3,7 +3,7 @@
     "description":" a editorjs wrapper for svelte and sveltekit ",
 "homepage":" https://sveditorjs.vercel.app",
 	"name": "sveditorjs",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"scripts": { 
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
@@ -27,7 +27,8 @@
 	"files": [
 		"dist",
 		"!dist/**/*.test.*",
-		"!dist/**/*.spec.*"
+		"!dist/**/*.spec.*",
+         "README.md"
 	],
 	"peerDependencies": {
 		"svelte": "^4.0.0"

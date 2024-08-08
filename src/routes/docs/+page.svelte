@@ -1,7 +1,6 @@
 
   <div style="margin-top:45px;"  class="text-wrapper">
-     <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-   <a href="https://vdbaa.com/fullpage.php?section=General&pub=954639&ga=g" target="_blank" ></a>
+  
  </div>
 
 <div class="tabs scroll responsive paddind">
@@ -37,9 +36,6 @@
     </code>
   </pre>
   <div class="text-wrapper">
-<script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/954639" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
-
 
  </div>
 </div>
@@ -62,7 +58,6 @@
 
  
   <div class="text-wrapper">
-<noscript><a href="https://yllix.com/publishers/954639" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
 
         </div>
 </div>
@@ -145,9 +140,6 @@ to customize editorjs chekout customization
     
   </ul>
   <div class="text-wrapper">
-
- <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/954639" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
 
 
  </div>

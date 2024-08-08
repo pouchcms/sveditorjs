@@ -10,9 +10,7 @@
 <Nav /> 
 <div style="margin-top:45px;" class="text-wrapper">
 
-  <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=954639&format=300x250&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/954639" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
-
+ 
        </div>
  <section style="display:flex;margin-top:48px;flex-wrap:row-wrap" class="padding"> 
    <main style="" class="left padding"> 

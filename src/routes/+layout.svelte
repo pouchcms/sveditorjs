@@ -19,6 +19,18 @@ eruda.init({
  }) 
 
   </script>
+<svelte:body>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '7f02d3d1538392262cb890a68d186302',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/7f02d3d1538392262cb890a68d186302/invoke.js"></script>
+</svelte:body>
 <main class="responsive max">
  <slot></slot>
 </main>
